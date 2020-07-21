@@ -30,7 +30,7 @@ body {
 .swiper-slide {
   text-align: center;
   font-size: 18px;
-  background: blue(0, 0, 0);
+  background: cyan;
 
   /* Center slide text vertically */
   display: -webkit-box;
