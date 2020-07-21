@@ -16,7 +16,7 @@ body {
 
 .intro-icon {
   font-size: 5rem;
-  color: #d63545;
+  color: blue;
   margin: 0px auto;
 }
 
@@ -30,7 +30,7 @@ body {
 .swiper-slide {
   text-align: center;
   font-size: 18px;
-  background: #fff;
+  background: blue(0, 0, 0);
 
   /* Center slide text vertically */
   display: -webkit-box;
